@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KeepMySeed</string>
+    <string name="dialog_btn_yes">Да</string>
+    <string name="dialog_btn_cancel">Отмена</string>
+    <string name="dialog_btn_not_encode">Без шифрования</string>
+    <string name="dialog_btn_with_encode">С шифрованием</string>
+    <string name="dialog_btn_view">Просмотреть</string>
+    <string name="dialog_btn_read_tag">Прочитать метку</string>
+    <string name="dialog_btn_write_tag">Записать новую метку</string>
+    <string name="dialog_btn_copy_tag">Копировать в буфер</string>
+    <string name="dialog_btn_rewrite_tag">Перезаписать</string>
+    <string name="dialog_btn_write">Записать</string>
+    <string name="dialog_title_empty_tag">Обнаружена пустая метка</string>
+    <string name="dialog_message_empty_tag">Записать данные?</string>
+    <string name="dialog_title_method_write_tag">Запись новой метки</string>
+    <string name="dialog_message_method_write_tag">Как записать данные?</string>
+    <string name="dialog_title_read_data">Чтение данных</string>
+    <string name="dialog_message_read_tag">Обнаружена незашифрованная метка</string>
+    <string name="dialog_message_read_encode_tag">Обнаружена зашифрованная метка</string>
+    <string name="dialog_title_select_action">Данные успешно записаны</string>
+    <string name="dialog_message_select_action">Выберите дальнейшее действие</string>
+    <string name="dialog_title_tag">Метка</string>
+    <string name="dialog_title_write_data">Запись данных</string>
+    <string name="dialog_title_write_encode_data">Запись шифрованых данных</string>
+    <string name="toast_comparison_password">Пароли должны совпадать</string>
+    <string name="toast_false_password">Неверный пароль</string>
+    <string name="message_write_tag">Для записи данных поднесите смартфон к метке</string>
+    <string name="message_read_tag">Для считывания данных поднесите телефон к метке (NFC должен быть включен)</string>
+    <string name="by_nfc_tag">Приобрести NFC метки: KeepMySeed.com</string>
+    <string name="hint_name">Название</string>
+    <string name="hint_text">Текст</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_password1">Повторите пароль</string>
+</resources>

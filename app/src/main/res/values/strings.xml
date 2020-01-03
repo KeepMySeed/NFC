@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KeepMySeed</string>
+    <string name="dialog_btn_yes">Yes</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_btn_not_encode">No encryption</string>
+    <string name="dialog_btn_with_encode">With encryption</string>
+    <string name="dialog_btn_view">View</string>
+    <string name="dialog_btn_read_tag">Read tag</string>
+    <string name="dialog_btn_write_tag">Record New Tag</string>
+    <string name="dialog_btn_copy_tag">Copy to clipboard</string>
+    <string name="dialog_btn_rewrite_tag">Rewrite</string>
+    <string name="dialog_btn_write">Write</string>
+    <string name="dialog_title_empty_tag">Blank tag detected</string>
+    <string name="dialog_message_empty_tag">Record data?</string>
+    <string name="dialog_title_method_write_tag">Record New Tag</string>
+    <string name="dialog_message_method_write_tag">How to write data?</string>
+    <string name="dialog_title_read_data">Reading data</string>
+    <string name="dialog_message_read_tag">Unencrypted tag detected</string>
+    <string name="dialog_message_read_encode_tag">Encrypted label detected</string>
+    <string name="dialog_title_select_action">Data successfully recorded</string>
+    <string name="dialog_message_select_action">Choose further action</string>
+    <string name="dialog_title_tag">NFC Tag</string>
+    <string name="dialog_title_write_data">Data write</string>
+    <string name="dialog_title_write_encode_data">Write encrypted data</string>
+    <string name="toast_comparison_password">Passwords must match</string>
+    <string name="toast_false_password">Wrong password</string>
+    <string name="message_write_tag">To record data, hold the smartphone to the nfc tag</string>
+    <string name="message_read_tag">To read data, hold the phone to the nfc tag (NFC must be turned on)</string>
+    <string name="by_nfc_tag">Buy nfc tag: KeepMySeed.com</string>
+    <string name="hint_name">Title</string>
+    <string name="hint_text">Text</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password1">Confirm password</string>
+</resources>
